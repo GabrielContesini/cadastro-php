@@ -10,7 +10,7 @@ Sistema simples de cadastro em PHP
   <li>Edição de Registros</li>
   <li>Deleção de Registros</li>
   <li>Pesquisa</li>
-  <li>...</li>
 </ul>
 <br>
-Nossa playlist: https://youtube.com/playlist?list=PLSHNk_yA5fNjoIRNHV-3FprsN3NWPcnnK
+
+OBS.: TODO O PROJETO FOI FEITO A PARTIR DE UM DB LOCAL, CASO QUERIA TESTAR, ENTRAR EM CONTATO PARA CRIAÇÃO DO BANCO DE DADOS E A MANIPULAÇÃO DOS MESMOS.
